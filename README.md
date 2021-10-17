@@ -6,3 +6,6 @@ Following the notebook from Matthias Groncki's blog: [HERE](https://ipythonquant
 
 Following The xVA Challenge 3rd Edition by Jon Gregory
 * His spreadsheet are found on his website: [HERE](https://cvacentral.com/books/credit-value-adjustment/spreadsheets/)
+
+Following Bhuvnesh Khurana on the finrgb.com: [HERE](https://www.finrgb.com/category/swatches/)
+* Very detailed and useful videos. Highly recommend.
