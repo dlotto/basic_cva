@@ -11,11 +11,11 @@ Following The xVA Challenge 3rd Edition by Jon Gregory
 Pricing CVA will involve expected exposure (EE). This is the average of all positive exposure values. Note that only positive values give rise to exposures and other values have a zero contribution (although they contribute in terms of their probability.)
 
 ### For a Normal Distribution
-V = mu + sigma*Z
+$$V = \mu + \sigma * Z$$
 where Z is a standard normal variable.
 
 The definition of exposure is:
-E = max(V, 0) = max(mu+sigma*Z, 0)
+$$E = max(V, 0) = max(\mu + \sigma * Z, 0)$$
 
 **Therefore, expected exposure is:**
 EE = mu x T(mu/sigma) + mu x G(mu/sigma)
