@@ -23,3 +23,5 @@ where,
 T = the cumulative normal distribution function
 G = normal distribution function
 
+Following Bhuvnesh Khurana on the finrgb.com: [HERE](https://www.finrgb.com/category/swatches/)
+* Very detailed and useful videos. Highly recommend.
